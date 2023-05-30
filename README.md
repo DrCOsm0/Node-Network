@@ -1,5 +1,5 @@
 # Node-Network
-Simple Pyhton Node Network
+Simple Python Node Network
 ## Synopsis
 - Node A sends data to Node B
 - Node B sends data to node C
